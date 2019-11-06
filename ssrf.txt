@@ -1,0 +1,3 @@
+External SSRF PoC
+
+<script>alert("XSS via SSRF")</script>
