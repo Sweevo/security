@@ -18,5 +18,5 @@ function readTextFile(file)
     rawFile.send(null);
 }
 
-readTextFile("file:///C:/Windows/win.ini");
+readTextFile("file:///c:/windows/win.ini");
 </script>
